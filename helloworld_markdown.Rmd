@@ -7,6 +7,9 @@ output: pdf_document
 ```{r}
 ## This is a markdown file.
 ```
+```{r}
+## second trial
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
